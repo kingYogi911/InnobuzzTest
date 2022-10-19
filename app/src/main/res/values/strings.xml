@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InnobuzzTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_posts">Posts</string>
+    <string name="menu_accessibility">Accessibility</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accessibility_service_label">innobuzz_accessibility</string>
+    <string name="accessibility_service_description">innobuzz test  toast on whatsapp open</string>
+</resources>
